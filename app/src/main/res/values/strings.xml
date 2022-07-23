@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YYC_Hacks_2022</string>
+    <string name = "google_maps_api_key"> AIzaSyDTXuirYxJCcot26Oi2pBStbi1dPY3iKMs </string>
 </resources>

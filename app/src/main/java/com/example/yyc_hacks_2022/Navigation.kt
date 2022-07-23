@@ -22,8 +22,27 @@ fun Navigation() {
             Home(navController = navController)
         }
         composable(route = Screen.ListScreen.route) {
-            List(navController = navController, 0)
+            List(navController = navController, attractionsList = retrieveList())
         }
+        /*
+        composable(
+            route = Screen.ListScreen.route + "/{placeholder}",
+            arguments = listOf(
+                navArgument("placeholder") {
+                    type = NavType.IntType
+                    defaultValue = 1
+                }
+            )
+        ) { entry ->
+            entry.arguments?.let {
+                List(
+                    navController = navController,
+                    attractionsList = RetrieveList()
+                )
+            }
+
+        }
+         */
     }
 
 }
