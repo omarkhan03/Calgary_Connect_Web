@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
+
 import axios from "axios";
 
 const url =  "https://data.calgary.ca/resource/n625-9k5x.json"
-const root = ReactDOM.createRoot(document.getElementById('root'));
 
 const formatedData =[]
   axios.get(url)
@@ -21,9 +21,9 @@ const formatedData =[]
     if(!formatingData["Events"]["Adress"]){
       formatingData["Events"]["Adress"] = {Adress:response.data[i].address}
     }
-    if(!formatingData["Events"]["Host"]){
-      formatingData["Events"]["Host"] = {Host:response.data[i].host_organization}
-    }
+    // if(!formatingData["Events"]["Host"]){
+    //   formatingData["Events"]["Host"] = {Host:response.data[i].host_organization}
+    // }
     if(!formatingData["Events"]["Event_type"]){
       formatingData["Events"]["Event_type"] = {Event_type:response.data[i].event_type}
     }
@@ -37,14 +37,12 @@ const formatedData =[]
 
     
     // console.log(response.data[i]);
-    // console.log(formatingData)
+    console.log(formatingData)
     formatedData.push(formatingData)
-    console.log(formatedData);
+    // console.log(formatedData);
 
   }
-  root.render(
-    
-  );
+  
 })
 .catch((err) => {
 console.log("Error"); 
