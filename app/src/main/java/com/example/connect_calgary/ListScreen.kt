@@ -128,7 +128,7 @@ private fun ListItem(navController: NavController, attraction: Attraction) {
 private fun MapButton(navController: NavController) {
     Button(
         onClick = {
-            navController.navigate(Screen.MapScreen.route)
+            //navController.navigate(Screen.MapScreen.route)
         }, shape = RoundedCornerShape(
             topEnd = 30.dp,
             bottomEnd = 30.dp

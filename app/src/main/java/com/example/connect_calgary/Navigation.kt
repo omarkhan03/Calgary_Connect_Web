@@ -15,7 +15,7 @@ import androidx.navigation.compose.rememberNavController
  * Composable to manage all the navigation in the app.
  */
 @Composable
-fun Navigation() {
+fun Navigation(attractions: MutableList<Attraction>) {
     val navController = rememberNavController()
 
     NavHost(navController = navController, startDestination = Screen.HomeScreen.route) {
@@ -23,7 +23,7 @@ fun Navigation() {
             Home(navController = navController)
         }
         composable(route = Screen.ListScreen.route) {
-            List(navController = navController, attractionsList = retrieveList())
+            List(navController = navController, attractionsList = attractions/*retrieveList()*/)
         }
         /*
         composable(
