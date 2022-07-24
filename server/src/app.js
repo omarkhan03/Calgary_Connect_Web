@@ -74,6 +74,29 @@ app.get("/data", (req, res) => {
 
 app.use('/events', express.static(path.join(__dirname, '../static/events.html')))
 
+app.use('/food', express.static(path.join(__dirname, '../static/food.html')))
+
+app.use('/mappage', express.static(path.join(__dirname, '../static/mappage.html')))
+
+
+const axios = require("axios");
+
+const options = {
+  method: 'GET',
+  url: 'https://google-maps-geocoding.p.rapidapi.com/geocode/json',
+  params: {latlng: '40.714224,-73.96145', language: 'en'},
+  headers: {
+    'X-RapidAPI-Key': '9d4b5f864amshaf0d8d49acd5c6ep15b0e3jsn19f524833588',
+    'X-RapidAPI-Host': 'google-maps-geocoding.p.rapidapi.com'
+  }
+};
+
+axios.request(options).then(function (response) {
+	console.log(response.data);
+}).catch(function (error) {
+	console.error(error);
+});
+
 app.listen(3000,()=> {
     console.log('serving on port 3000')
 })

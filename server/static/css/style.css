@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.5)), url("assets/calgary.jpg");
+  background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.5)), url("../img/calgary.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -38,44 +38,47 @@ header {
 #logo {
   cursor: pointer;
   margin-right: auto;
-  font-size: 20px;
 }
 
 h1 {
   color: white;
+  
 }
 
 .navlinks {
   list-style:none;
 }
 
-.navlinks li {
+.navbar i {
   display: inline-block;
   padding: 0px 20px;
 }
 
-.navlinks li a {
+.navbar i a {
   transition: all 0.3s ease 0s;
 }
 
-.navlinks li a:hover {
+.navbar i a:hover {
   color: lightgray;
 }
 
 #loginbtn{
   margin-left: 20px;
   padding: 9px 25px;
-  background-color: rgb(255,92,92);
+  background-color: rgb(200,16,46);
   border: none;
   border-radius: 5px;
   cursor: pointer;
   color: white;
   transition: all 0.3s ease 0s;
 }
-
-button:hover {
-  background-color: lightgray;
+#loginbtn:hover{
+  background-color: white;
+  color: rgb(200,16,46);
 }
+/* button:hover {
+  background-color: rgb(200,16,46);
+} */
 
 .btn-primary {
   font-size: 30px;
@@ -88,10 +91,37 @@ button:hover {
   height: 50px;
 }
 #btn2 {
-  color: rgb(255,92,92);
+  color: rgb(200,16,46);
 }
 
 #btn1 {
-  background-color: rgba(255,92,92);
+  background-color: rgba(200,16,26);
   color: white;
+  margin: 0;
 }
+
+#btn1:hover{
+  background-color: white;
+  color:rgb(200,16,46);
+}
+
+#btn2:hover{
+  background-color: rgb(200,16,46);
+  color:white;
+}
+.icons:hover .fa-regular,
+.icons .fa-solid {
+    display: none;
+  
+}
+.icons:hover .fa-solid {
+    display: inline;
+}
+
+.icons:hover {
+ color: white; 
+}
+.icons {
+  color: rgb(200,16,46);
+}
+

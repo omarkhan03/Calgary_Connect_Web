@@ -22,15 +22,13 @@ const formatedData =[]
       formatingData["Events"]["Event_type"] = {Event_type:response.data[i].event_type}
     }
     if(!formatingData["Events"]["Dates"]){
-      formatingData["Events"]["Dates"] = {Dates:response.data[i].all_dates}
+      formatingData["Events"]["Dates"] = {Dates:response.data[i].next_date_times}
     }
     if(!formatingData["Events"]["More_info"]){
       formatingData["Events"]["More_info"] = {More_info:response.data[i].more_info_url}
     }
 
-    if (!formatingData["Events"]["Event_type"]){
-      formatingData["Events"]["Event_type"] = {Event_type:response.data[i].event_type}
-    } 
+
 
     if (!formatingData["Events"]["Lat_Long"]){
       formatingData["Events"]["Lat"] = {Lat:response.data[i].latitude}
@@ -38,7 +36,7 @@ const formatedData =[]
     } 
 
 
-    // console.log(response.data[i]);
+    // console.log(response.data);
     console.log(formatingData)
     formatedData.push(formatingData)
     // console.log(formatedData);
