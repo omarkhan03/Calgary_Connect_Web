@@ -1,0 +1,607 @@
+[
+  {
+    "address": "277 Strathcona Drive SW",
+    "notes": "Save a trip to the landfill for items that do not fit in their waste and recycling carts or for residents who do not have cart service. This service is <strong>free of charge</strong> to all Calgarians.",
+    "title": "Strathcona / Christie Park / Aspen Woods Community Cleanup",
+    "event_type": "Community event",
+    "event_group": "Event",
+    "more_info_url": "https://www.trumba.com/calendars/map-feeds?eventid=131920756",
+    "all_dates": "Jul 23 2022 9 a.m. - 2 p.m.",
+    "next_date_times": "July 23 2022 9 a.m. - 2 p.m.",
+    "longitude": "-114.1799694",
+    "latitude": "51.0472701",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.1799694,
+        51.0472701
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "1",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "67",
+    ":@computed_region_p8tp_5dkv": "14"
+  },
+  {
+    "address": "1600 32 Avenue NE",
+    "host_organization": "City of Calgary",
+    "notes": "<p>At family golf night, juniors (4-17 years old) golf for free when accompanied by one paying adult/senior. There must be at least one adult/senior per foursome.&nbsp;\n\nMinimum number in a group to book is 2. Single player reservations or walk-on play cannot be accommodated during Family Nights.</p><p><strong>Green fees include</strong>:</p><ul>\t<li>9 holes of golf from 5 p.m. to closing.</li>\t<li>Giveaways, discount coupons.</li>\t<li>Golf Pro on site with free golf tips from 5 - 7 p.m.</li></ul>",
+    "title": "Golf Family Nights - McCall Par 3",
+    "event_type": "Athletic / sport",
+    "event_group": "Event",
+    "more_info_url": "https://www.trumba.com/calendars/map-feeds?eventid=159936791",
+    "all_dates": "Jul 23 2022 5 - 7 p.m.",
+    "next_date_times": "July 23 2022 5 - 7 p.m.",
+    "longitude": "-114.015045",
+    "latitude": "51.083081",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.015045,
+        51.083081
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "9",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "81",
+    ":@computed_region_p8tp_5dkv": "3"
+  },
+  {
+    "address": "1312 75th Avenue SW",
+    "host_organization": "City of Calgary",
+    "notes": "These safe, supervised programs help children make new friends and learn. Games and activities are designed to encourage them on their path to healthy and active lifestyles. Programs run Monday to Friday. <a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/ParknPlay\" target=\"_blank\">Reserve your drop-in spot online </a>7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 6 - 12 years",
+    "title": "Park n’ Play - Kelvin Grove",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Jul 25 2022 10 a.m. - 3:30 p.m.<br>Jul 26 2022 10 a.m. - 3:30 p.m.<br>Jul 27 2022 10 a.m. - 3:30 p.m.<br>Jul 28 2022 10 a.m. - 3:30 p.m.<br>Jul 29 2022 10 a.m. - 3:30 p.m.",
+    "next_date_times": "July 25 2022 10 a.m. - 3:30 p.m.",
+    "longitude": "-114.090045",
+    "latitude": "50.986022",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.090045,
+        50.986022
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "8",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "29",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "address": "221 12 Avenue SW",
+    "notes": "Connect with neighbours while your preschooler is active and interacting with other children (ages 0-5) A variety of equipment will be available for use in the gym for unstructured playtime:&nbsp; trykes, parachute, balls, floor matts and much more.",
+    "title": "Preschool Indoor Playtime",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/recreation/active-beltline.html",
+    "all_dates": "Jul 25 2022 10:30 a.m. - 12 p.m.<br>Aug 1 2022 10:30 a.m. - 12 p.m.<br>Aug 8 2022 10:30 a.m. - 12 p.m.<br>Aug 15 2022 10:30 a.m. - 12 p.m.<br>Aug 22 2022 10:30 a.m. - 12 p.m.",
+    "next_date_times": "July 25 2022 10:30 a.m. - 12 p.m.",
+    "longitude": "-114.067013",
+    "latitude": "51.041313",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.067013,
+        51.041313
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "address": "800 Macleod Trail SE",
+    "notes": "UPDATE: new meeting",
+    "title": "Green Line Board",
+    "event_type": "BCC / Board meeting",
+    "event_group": "City Business",
+    "more_info_url": "https://www.trumba.com/calendars/map-feeds?eventid=156985612",
+    "all_dates": "Jul 28 2022 1 - 5 p.m.<br>Oct 14 2022 1 - 5 p.m.<br>Nov 30 2022 1 - 5 p.m.",
+    "next_date_times": "July 28 2022 1 - 5 p.m.",
+    "longitude": "-114.056551",
+    "latitude": "51.04606",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.056551,
+        51.04606
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "262",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "address": "357 Tuscany Drive NW",
+    "host_organization": "City of Calgary",
+    "notes": "These safe, supervised programs help children make new friends and learn. Games and activities are designed to encourage them on their path to healthy and active lifestyles. Programs run Monday to Friday. <a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/ParknPlay\" target=\"_blank\">Reserve your drop-in spot online </a>7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 6 - 12 years",
+    "title": "Park n’ Play - Tuscany",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Aug 8 2022 10 a.m. - 3:30 p.m.<br>Aug 9 2022 10 a.m. - 3:30 p.m.<br>Aug 10 2022 10 a.m. - 3:30 p.m.<br>Aug 11 2022 10 a.m. - 3:30 p.m.<br>Aug 12 2022 10 a.m. - 3:30 p.m.",
+    "next_date_times": "August 8 2022 10 a.m. - 3:30 p.m.",
+    "longitude": "-114.25122",
+    "latitude": "51.127914",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.25122,
+        51.127914
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "13",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "158",
+    ":@computed_region_p8tp_5dkv": "9"
+  },
+  {
+    "address": "6320 Temple Drive NE",
+    "host_organization": "City of Calgary",
+    "notes": "Bring your lawn chair and snacks and enjoy live entertainment for the entire family. This event is free and open to all ages. Events will take place in various locations across Calgary. Please note these events are weather dependent.",
+    "title": "Unplug n’ Play - Temple",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/family-seasonal-programs.html",
+    "all_dates": "Aug 11 2022 6 - 8 p.m.",
+    "next_date_times": "August 11 2022 6 - 8 p.m.",
+    "longitude": "-113.94038",
+    "latitude": "51.086043",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.94038,
+        51.086043
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "9",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "22",
+    ":@computed_region_p8tp_5dkv": "3"
+  },
+  {
+    "address": "320 Abergale Drive NE",
+    "host_organization": "City of Calgary",
+    "notes": "These safe, supervised programs help children make new friends and learn. Games and activities are designed to encourage them on their path to healthy and active lifestyles. Programs run Monday to Friday. <a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/ParknPlay\" target=\"_blank\">Reserve your drop-in spot online </a>7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 6 - 12 years",
+    "title": "Park n’ Play - Abbeydale",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Aug 2 2022 10 a.m. - 3:30 p.m.<br>Aug 3 2022 10 a.m. - 3:30 p.m.<br>Aug 4 2022 10 a.m. - 3:30 p.m.<br>Aug 5 2022 10 a.m. - 3:30 p.m.",
+    "next_date_times": "August 2 2022 10 a.m. - 3:30 p.m.",
+    "longitude": "-113.929544",
+    "latitude": "51.056627",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.929544,
+        51.056627
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "12",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "94",
+    ":@computed_region_p8tp_5dkv": "3"
+  },
+  {
+    "address": "222 8 Avenue SE",
+    "notes": "<p>Fiesta Filipino is the biggest and most colorful street party that showcases the vibrant Filipino and Asian Communities in our city. Check out the Asian Band Showcase and experience all the sights, sounds, and tastes of Filipino culture and heritage. &nbsp;</p>",
+    "title": "Fiesta Filipino",
+    "event_group": "Event",
+    "more_info_url": "https://www.trumba.com/calendars/map-feeds?eventid=161133612",
+    "all_dates": "Sept 2 10 a.m. - Sept 4 2022 10 p.m.",
+    "next_date_times": "September 2 10 a.m. - September 4 2022 10 p.m.",
+    "longitude": "-114.059479",
+    "latitude": "51.045749",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.059479,
+        51.045749
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "262",
+    ":@computed_region_p8tp_5dkv": "7"
+  },
+  {
+    "address": "221 12 Avenue SW",
+    "notes": "For children ages 6+, this course teaches self-awareness and personal safety.&nbsp; Throughout this interactive workshop, children learn tips for basic personal safety.&nbsp; All lessons are reinforced through role-playing and group discussion.&nbsp; FREE!&nbsp; Register at: activebeltline@calgary.ca\n\nLimited spots are available.&nbsp; Preferences will be given to children living in the Beltline and surrounding neighbourhoods.\n\nAccessibility barriers:&nbsp; Multiple staircases to access program space.&nbsp; Street parking only.",
+    "title": "Street Smarts",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/recreation/active-beltline.html",
+    "all_dates": "Aug 16 2022 2:30 - 4:30 p.m.",
+    "next_date_times": "August 16 2022 2:30 - 4:30 p.m.",
+    "longitude": "-114.067013",
+    "latitude": "51.041313",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.067013,
+        51.041313
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "address": "920 Parkvalley Way SE",
+    "host_organization": "City of Calgary",
+    "notes": "<p>Drop-in as we visit communities throughout Calgary. Practice and learn how to safely use park fitness equipment that will improve your strength, cardio, and overall well-being.\n\nEnjoy the outdoors while a certified trainer guides you with suggestions so you can get the most out of your workout.</p><p>Ages: adults only</p>",
+    "title": "Fit Park Exercises (Adults) - Parkland",
+    "event_type": "Athletic / sport,Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.trumba.com/calendars/map-feeds?eventid=159395022",
+    "all_dates": "Jul 22 2022 10 a.m. - 1 p.m.<br>Jul 23 2022 9 a.m. - 12 p.m.<br>Jul 25 2022 10 a.m. - 1 p.m.",
+    "next_date_times": "July 22 2022 10 a.m. - 1 p.m.",
+    "longitude": "-114.026922",
+    "latitude": "50.9179394",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.026922,
+        50.9179394
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "6",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "117",
+    ":@computed_region_p8tp_5dkv": "13"
+  },
+  {
+    "address": "221 12 Avenue SW",
+    "notes": "Bring some healthy indoor plant cuttings to share and take some home, while you meet other plant enthusiasts in the neighbourhood!&nbsp; To ensure everyone gets a plant, we ask that you take no more plants home than you brought to the plant exchange.&nbsp; If you do not have a plant to exchange, you can bring a new hygiene product to swap and contribute to our REFRESH program.&nbsp; Examples include new toiletries such as toothbrushes, combs, socks, deodorant, shampoo and soap.\n\nInterested to help plan a community Swap/Exchange?&nbsp; Contact&nbsp;please contact Silvia Ross, Community Social Worker:\nsilvia.ross@calgary.ca or text 403-540-0160\n\nAccessibility barriers:&nbsp; Multiple staircases to access program space.&nbsp; Street parking only.&nbsp;&nbsp;",
+    "title": "Beltline Indoor Plant Exchange",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/recreation/active-beltline.html",
+    "all_dates": "Aug 3 2022 2 - 4 p.m.<br>Aug 10 2022 2 - 4 p.m.<br>Aug 17 2022 2 - 4 p.m.<br>Aug 24 2022 2 - 4 p.m.<br>Aug 31 2022 2 - 4 p.m.",
+    "next_date_times": "August 3 2022 2 - 4 p.m.",
+    "longitude": "-114.067013",
+    "latitude": "51.041313",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.067013,
+        51.041313
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "address": "Aspenshire Crescent & Aspen St",
+    "host_organization": "City of Calgary",
+    "notes": "<p>Drop-in as we visit communities throughout Calgary. Practice and learn how to safely use park fitness equipment that will improve your strength, cardio, and overall well-being.\n\nEnjoy the outdoors while a certified trainer guides you with suggestions so you can get the most out of your workout.</p><p>Ages: adults only</p>",
+    "title": "Fit Park Exercises (Adults) - Aspen",
+    "event_type": "Athletic / sport,Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.trumba.com/calendars/map-feeds?eventid=159395090",
+    "all_dates": "Aug 11 2022 2 - 5 p.m.<br>Aug 13 2022 10 a.m. - 1 p.m.<br>Aug 16 2022 5 - 8 p.m.<br>Aug 18 2022 10 a.m. - 1 p.m.<br>Aug 22 2022 5 - 8 p.m.<br>Aug 24 2022 9 a.m. - 12 p.m.",
+    "next_date_times": "August 11 2022 2 - 5 p.m.",
+    "longitude": "-114.2141052",
+    "latitude": "51.0501071",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.2141052,
+        51.0501071
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "1",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "48",
+    ":@computed_region_p8tp_5dkv": "14"
+  },
+  {
+    "address": "679 Prestwick Circle SE",
+    "host_organization": "City of Calgary",
+    "notes": "These safe, supervised programs help children make new friends and learn. Games and activities are designed to encourage them on their path to healthy and active lifestyles. Programs run Monday to Friday. <a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/ParknPlay\" target=\"_blank\">Reserve your drop-in spot online </a>7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 6 - 12 years",
+    "title": "Park n’ Play - McKenzie Towne",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Jul 22 2022 10 a.m. - 3:30 p.m.",
+    "next_date_times": "July 22 2022 10 a.m. - 3:30 p.m.",
+    "longitude": "-113.966836",
+    "latitude": "50.92697",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.966836,
+        50.92697
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "46",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "address": "135 Covepark Square NE",
+    "host_organization": "City of Calgary",
+    "notes": "These safe, supervised programs help children make new friends and learn. Games and activities are designed to encourage them on their path to healthy and active lifestyles. Programs run Monday to Friday. <a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/ParknPlay\" target=\"_blank\">Reserve your drop-in spot online </a>7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 6 - 12 years",
+    "title": "Park n’ Play - Coventry Hills",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Aug 15 2022 10 a.m. - 3:30 p.m.<br>Aug 16 2022 10 a.m. - 3:30 p.m.<br>Aug 17 2022 10 a.m. - 3:30 p.m.<br>Aug 18 2022 10 a.m. - 3:30 p.m.<br>Aug 19 2022 10 a.m. - 3:30 p.m.",
+    "next_date_times": "August 15 2022 10 a.m. - 3:30 p.m.",
+    "longitude": "-114.06061",
+    "latitude": "51.166964",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.06061,
+        51.166964
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "251",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "address": "6502 58 Street NW",
+    "host_organization": "City of Calgary",
+    "notes": "These, safe, supervised programs help children and adults make new friends and stay active through a play-based learning environment. Participants engage in games and activities that they can use on their path to healthy and active lifestyles. Children must be accompanied by an adult. Programs run Monday to Friday.\n<a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/StaynPlay\" target=\"_blank\">Reserve your drop-in spot online</a> 7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 3 - 5 years + Adult",
+    "title": "Stay n’ Play - Dalhousie",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Jul 22 2022 10 a.m. - 12 p.m.",
+    "next_date_times": "July 22 2022 10 a.m. - 12 p.m.",
+    "longitude": "-114.169085",
+    "latitude": "51.111134",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.169085,
+        51.111134
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "7",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "38",
+    ":@computed_region_p8tp_5dkv": "4"
+  },
+  {
+    "address": "12350 84 Street SE",
+    "notes": "Are you ready to learn all about the wonders of wetlands? Join Calgary Parks to explore these natural spaces and the wildlife that call them home. Discover why wetlands are important and get an up-close view of the amazing critters that live below the surface during a pond dip. Programs will be held at Ralph Klein Park.\n\nParticipants must be accompanied by an adult. Recommended for family cohorts with children aged 5-12.",
+    "title": "Wetland Wonders",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/parks/programs/parks-summer-programs.html",
+    "all_dates": "Jul 27 2022 1:30 - 3 p.m.<br>Aug 3 2022 1:30 - 3 p.m.<br>Aug 10 2022 1:30 - 3 p.m.<br>Aug 17 2022 1:30 - 3 p.m.<br>Aug 24 2022 1:30 - 3 p.m.",
+    "next_date_times": "July 27 2022 1:30 - 3 p.m.",
+    "longitude": "-113.907534",
+    "latitude": "50.939469",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.907534,
+        50.939469
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "4",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "211",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "address": "167 Templegreen Road NE",
+    "host_organization": "City of Calgary",
+    "notes": "Free drop-in wheeled sport opportunities.\n\nFun for in-line skaters, skateboarders, and scooter users. Helmets are recommended.\n\nAll ages",
+    "title": "Mobile Skate & Scoot Spot",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.trumba.com/calendars/map-feeds?eventid=159719342",
+    "all_dates": "Aug 18 2022 12 - 8 p.m.<br>Aug 19 2022 12 - 8 p.m.<br>Aug 20 2022 12 - 8 p.m.<br>Aug 21 2022 12 - 8 p.m.<br>Aug 22 2022 12 - 8 p.m.<br>Aug 23 2022 12 - 8 p.m.<br>Aug 24 2022 12 - 8 p.m.<br>Aug 25 2022 12 - 8 p.m.<br>Aug 26 2022 12 - 8 p.m.<br>Aug 27 2022 12 - 8 p.m.<br>Aug 28 2022 12 - 8 p.m.<br>Aug 29 2022 12 - 8 p.m.<br>Aug 30 2022 12 - 8 p.m.",
+    "next_date_times": "August 18 2022 12 - 8 p.m.",
+    "longitude": "-113.9448539",
+    "latitude": "51.0874093",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.9448539,
+        51.0874093
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "9",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "22",
+    ":@computed_region_p8tp_5dkv": "3"
+  },
+  {
+    "address": "7400 California Blvd. NE",
+    "host_organization": "City of Calgary",
+    "notes": "These, safe, supervised programs help children and adults make new friends and stay active through a play-based learning environment. Participants engage in games and activities that they can use on their path to healthy and active lifestyles. Children must be accompanied by an adult. Programs run Monday to Friday.\n<a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/StaynPlay\" target=\"_blank\">Reserve your drop-in spot online</a> 7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 3 - 5 years + Adult",
+    "title": "Stay n’ Play - Monterey Park",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Jul 25 2022 10 a.m. - 12 p.m.<br>Jul 26 2022 10 a.m. - 12 p.m.<br>Jul 27 2022 10 a.m. - 12 p.m.<br>Jul 28 2022 10 a.m. - 12 p.m.<br>Jul 29 2022 10 a.m. - 12 p.m.",
+    "next_date_times": "July 25 2022 10 a.m. - 12 p.m.",
+    "longitude": "-113.9305861",
+    "latitude": "51.0779496",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.9305861,
+        51.0779496
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "9",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "161",
+    ":@computed_region_p8tp_5dkv": "3"
+  },
+  {
+    "address": "221 12 Avenue SW",
+    "notes": "<p>Join our free Youth Volunteer and Job Skills Program to learn about working and /or volunteering in your community and using your skills to have fun.</p><p>If you are 12 to 17 years old, this program is for you. This is a registered program, using a blend of virtual and in-person opportunities.&nbsp;</p><p>Please email <a href=\"mailto:tami.nisbet@calgary.ca?subject=Youth Volunteer and Job Skills\" target=\"_blank\" title=\"Email tami.nisbet@calgary.ca\">tami.nisbet@calgary.ca</a>&nbsp;to register.</p>",
+    "title": "Youth Volunteer and Job Skills",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/recreation/active-beltline.html",
+    "all_dates": "Jul 23 2022 1 - 4 p.m.<br>Jul 23 2022 1 - 4 p.m.<br>Aug 6 2022 1 - 4 p.m.<br>Aug 6 2022 1 - 4 p.m.<br>Aug 20 2022 1 - 4 p.m.<br>Aug 20 2022 1 - 4 p.m.<br>Sept 3 2022 1 - 4 p.m.<br>Sept 3 2022 1 - 4 p.m.<br>Sept 17 2022 1 - 4 p.m.<br>Sept 17 2022 1 - 4 p.m.<br>Oct 1 2022 1 - 4 p.m.<br>Oct 1 2022 1 - 4 p.m.<br>Oct 15 2022 1 - 4 p.m.<br>Oct 15 2022 1 - 4 p.m.<br>Oct 29 2022 1 - 4 p.m.<br>Oct 29 2022 1 - 4 p.m.<br>Nov 12 2022 1 - 4 p.m.<br>Nov 12 2022 1 - 4 p.m.<br>Nov 26 2022 1 - 4 p.m.<br>Nov 26 2022 1 - 4 p.m.<br>Dec 10 2022 1 - 4 p.m.<br>Dec 10 2022 1 - 4 p.m.<br>Dec 24 2022 1 - 4 p.m.<br>Dec 24 2022 1 - 4 p.m.",
+    "next_date_times": "July 23 2022 1 - 4 p.m.",
+    "longitude": "-114.067013",
+    "latitude": "51.041313",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.067013,
+        51.041313
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "address": "1121 12 Avenue SW",
+    "host_organization": "City of Calgary",
+    "notes": "These, safe, supervised programs help children and adults make new friends and stay active through a play-based learning environment. Participants engage in games and activities that they can use on their path to healthy and active lifestyles. Children must be accompanied by an adult. Programs run Monday to Friday.\n<a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/StaynPlay\" target=\"_blank\">Reserve your drop-in spot online</a> 7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 3 - 5 years + Adult",
+    "title": "Stay n’ Play - Beltline",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Jul 25 2022 10 a.m. - 12 p.m.<br>Jul 26 2022 10 a.m. - 12 p.m.<br>Jul 27 2022 10 a.m. - 12 p.m.<br>Jul 28 2022 10 a.m. - 12 p.m.<br>Jul 29 2022 10 a.m. - 12 p.m.",
+    "next_date_times": "July 25 2022 10 a.m. - 12 p.m.",
+    "longitude": "-114.0877",
+    "latitude": "51.041516",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.0877,
+        51.041516
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "2"
+  },
+  {
+    "address": "221 12 Avenue SW",
+    "notes": "Drop in rock climbing on our outdoor climbing wall.&nbsp; All climbers must be 13 years or older and demonstrate proper use of harness and safe belaying before climbing.&nbsp; Children 4-12 years old must be belayed by an adult (18 years and up.) All climbers must complete an on site waiver prior to use of the climbing wall.&nbsp; Climbers under 18 years of age must have a parent/guardian sign the waiver form on site.&nbsp; Completion of on site belay test will be checked by climbing staff, and a climbing wall card will be given.&nbsp; Please present this card every time you come.&nbsp; Helmets are mandatory for children 6-12 years.&nbsp;&nbsp;\n\n&nbsp;Please register at activebeltline@calgary.ca",
+    "title": "Rock Climbing (registration required)",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/recreation/active-beltline.html",
+    "all_dates": "Jul 26 2022 5:30 - 7:30 p.m.<br>Aug 2 2022 5:30 - 7:30 p.m.<br>Aug 9 2022 5:30 - 7:30 p.m.<br>Aug 16 2022 5:30 - 7:30 p.m.<br>Aug 23 2022 5:30 - 7:30 p.m.<br>Aug 30 2022 5:30 - 7:30 p.m.",
+    "next_date_times": "July 26 2022 5:30 - 7:30 p.m.",
+    "longitude": "-114.067013",
+    "latitude": "51.041313",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.067013,
+        51.041313
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "14",
+    ":@computed_region_4a3i_ccfj": "1",
+    ":@computed_region_kxmf_bzkv": "260",
+    ":@computed_region_p8tp_5dkv": "5"
+  },
+  {
+    "address": "1057 Panorama Hills Drive NW",
+    "host_organization": "City of Calgary",
+    "notes": "These, safe, supervised programs help children and adults make new friends and stay active through a play-based learning environment. Participants engage in games and activities that they can use on their path to healthy and active lifestyles. Children must be accompanied by an adult. Programs run Monday to Friday.\n<a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/StaynPlay\" target=\"_blank\">Reserve your drop-in spot online</a> 7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 3 - 5 years + Adult",
+    "title": "Stay n’ Play - Panorama Hills",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Jul 22 2022 10 a.m. - 12 p.m.",
+    "next_date_times": "July 22 2022 10 a.m. - 12 p.m.",
+    "longitude": "-114.085606",
+    "latitude": "51.155397",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.085606,
+        51.155397
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "11",
+    ":@computed_region_4a3i_ccfj": "2",
+    ":@computed_region_kxmf_bzkv": "235",
+    ":@computed_region_p8tp_5dkv": "12"
+  },
+  {
+    "address": "4307 10 Avenue SE",
+    "notes": "August 8-12 2022&nbsp;\n\nForest Lawn Community Park - 4307 10 Avenue SE\n\n10 a.m. - 3 p.m.&nbsp;\n\nCost: Free\n\nJoin us for a self-directed, drop-in program that use loose parts and natural materials to inspire active and creative outdoor play, and connect people, young and old, to nature.\n\nNature play spaces have been chosen to meet the needs of creative, imaginative, nature-based and self-directed play that are vital to children&#39;s cognitive, emotional and social development.\n\nOnsite play ambassadors will be on site to inspire play. Parents are encouraged to stay and watch their children&#39;s imaginations soar in this new adventure space",
+    "title": "Summer Mobile Adventure Playground",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/parks/locations/mobile-adventure-playground.html",
+    "all_dates": "Aug 8 2022 10 a.m. - 3 p.m.<br>Aug 9 2022 10 a.m. - 3 p.m.<br>Aug 10 2022 10 a.m. - 3 p.m.<br>Aug 11 2022 10 a.m. - 3 p.m.<br>Aug 12 2022 10 a.m. - 3 p.m.",
+    "next_date_times": "August 8 2022 10 a.m. - 3 p.m.",
+    "longitude": "-113.971761",
+    "latitude": "51.043925",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.971761,
+        51.043925
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "12",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "85",
+    ":@computed_region_p8tp_5dkv": "11"
+  },
+  {
+    "address": "65 Rivervalley Drive SE",
+    "host_organization": "City of Calgary",
+    "notes": "These safe, supervised programs help children make new friends and learn. Games and activities are designed to encourage them on their path to healthy and active lifestyles. Programs run Monday to Friday. <a href=\"https://liveandplay.calgary.ca/DROPIN/public/category/browse/ParknPlay\" target=\"_blank\">Reserve your drop-in spot online </a>7 days in advance. Walk ups will also be accepted on a first come, first serve basis.\nAges: 6 - 12 years",
+    "title": "Park n’ Play - Riverbend",
+    "event_type": "Recreation and leisure",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/park-n-play-and-stay-n-play-programs.html",
+    "all_dates": "Aug 15 2022 10 a.m. - 3:30 p.m.<br>Aug 16 2022 10 a.m. - 3:30 p.m.<br>Aug 17 2022 10 a.m. - 3:30 p.m.<br>Aug 18 2022 10 a.m. - 3:30 p.m.<br>Aug 19 2022 10 a.m. - 3:30 p.m.",
+    "next_date_times": "August 15 2022 10 a.m. - 3:30 p.m.",
+    "longitude": "-114.018584",
+    "latitude": "50.972429",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -114.018584,
+        50.972429
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "10",
+    ":@computed_region_4a3i_ccfj": "3",
+    ":@computed_region_kxmf_bzkv": "19",
+    ":@computed_region_p8tp_5dkv": "8"
+  },
+  {
+    "address": "7555 Falconridge Boulevard NE",
+    "notes": "Do you want to earn a training certificate and build your resume? Want to dive deeper into employable skills and discover ways to set yourself apart from the rest? Join our FREE youth program to learn about working with children in your community and using your skills to have fun. If you are 13 to 16 years old, this program is for you.\nPre-registration is required.",
+    "title": "Youth Job Skillz - Martindale",
+    "event_type": "Informational / educational",
+    "event_group": "Event",
+    "more_info_url": "https://www.calgary.ca/csps/cns/children-and-youth/seasonal-programs/youth-seasonal-programs.html",
+    "all_dates": "Jul 22 2022 10 a.m. - 3 p.m.<br>Jul 25 2022 10 a.m. - 3 p.m.<br>Jul 26 2022 10 a.m. - 3 p.m.<br>Jul 27 2022 10 a.m. - 3 p.m.<br>Jul 28 2022 10 a.m. - 3 p.m.<br>Jul 29 2022 10 a.m. - 3 p.m.",
+    "next_date_times": "July 22 2022 10 a.m. - 3 p.m.",
+    "longitude": "-113.9496",
+    "latitude": "51.120555",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -113.9496,
+        51.120555
+      ]
+    },
+    ":@computed_region_4b54_tmc4": "9",
+    ":@computed_region_4a3i_ccfj": "4",
+    ":@computed_region_kxmf_bzkv": "180",
+    ":@computed_region_p8tp_5dkv": "1"
+  }
+]

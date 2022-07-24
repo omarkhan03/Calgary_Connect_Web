@@ -1,8 +1,8 @@
 package com.example.connect_calgary
 
-import androidx.compose.foundation.Image
+import android.content.Intent
+import android.net.Uri
 import androidx.compose.foundation.background
-import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -11,20 +11,14 @@ import androidx.compose.foundation.shape.CornerSize
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.*
 import androidx.compose.material.MaterialTheme.typography
-import androidx.compose.material.SnackbarDefaults.backgroundColor
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowForward
 import androidx.compose.material.icons.filled.Home
-import androidx.compose.material.icons.filled.List
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.BlendMode.Companion.Color
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.layout.ContentScale
-import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -71,7 +65,6 @@ private fun TopNavBar(navController: NavController) {
         horizontalArrangement = Arrangement.Center,
         modifier = Modifier.fillMaxWidth().background(color = Color(120,16,46))
     ) {
-
         Box(
             modifier = Modifier
                 .clickable {
@@ -114,21 +107,26 @@ private fun ListItem(navController: NavController, attraction: Attraction) {
                 .padding(16.dp)
                 .fillMaxWidth()
         ) {
-            Text(text = "${attraction.type}:  ${attraction.name}", style = typography.h6, color = androidx.compose.ui.graphics.Color.Black)
-            Text(text = "Location: ${attraction.location}", style = typography.caption, color = androidx.compose.ui.graphics.Color.Black)
-            Text(text = "${attraction.date}", style = typography.caption, color = androidx.compose.ui.graphics.Color.Black)
-            Text(text = "${attraction.time}", style = typography.caption, color = androidx.compose.ui.graphics.Color.Black)
+            Text(text = "${attraction.title}", style = typography.h6, color = androidx.compose.ui.graphics.Color.Black)
+            Text(text = "Location: ${attraction.address}", style = typography.caption, color = androidx.compose.ui.graphics.Color.Black)
+            Text(text = "${attraction.next_date_times}", style = typography.caption, color = androidx.compose.ui.graphics.Color.Black)
 
-            MapButton(navController)
+            MapButton(navController, attraction)
         }
     }
 }
 
 @Composable
-private fun MapButton(navController: NavController) {
+private fun MapButton(navController: NavController, attraction: Attraction) {
+
+    val address = attraction.address
+
+    val context = LocalContext.current
+    val mapIntent = remember { Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=$address"/*"geo:51.0472701,-114.1799694?z=18"*/)) }
+
     Button(
         onClick = {
-            //navController.navigate(Screen.MapScreen.route)
+            context.startActivity(mapIntent)
         }, shape = RoundedCornerShape(
             topEnd = 30.dp,
             bottomEnd = 30.dp
