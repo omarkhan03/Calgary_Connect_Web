@@ -68,7 +68,6 @@ then(data =>  data.formatedData.forEach((event) => {
         event_type_text.innerText = `${event.Events.Event_type.Event_type}`
     else
         event_type_text.innerText = `${event.Events.Title.Title}`
-
     event_type.appendChild(event_type_text)
     eventcard.appendChild(event_type)
 

@@ -136,7 +136,14 @@ header {
   height: 1000px;
   padding: 8px;
   line-height: 1.5;
+  letter-spacing: 1.1;
   overflow: scroll;
+}
+
+.event-cards h3 {
+  background-color: #ffe3e3;
+  font-size: 1.2em;
+  text-align: center;
 }
 
 .event-cards span {
@@ -144,10 +151,9 @@ header {
   color: #343a40;
 }
 
-
 .event-card {
   flex-shrink: 0;
-  border: 1px solid #fa5252 ;
+  border: 2px solid #fa5252 ;
   border-radius: 6px;
   padding: 4px;
   white-space: nowrap;
