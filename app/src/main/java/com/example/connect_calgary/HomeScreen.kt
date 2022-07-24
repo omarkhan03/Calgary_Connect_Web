@@ -1,12 +1,9 @@
 package com.example.connect_calgary
 
-import androidx.compose.foundation.background
-import androidx.compose.foundation.border
+import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
-import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowForward
@@ -15,6 +12,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -31,29 +29,25 @@ fun Home(navController: NavController) {
     ) {
         Column(Modifier.verticalScroll(rememberScrollState())) {
 
-            Box(
-                modifier = Modifier
-                    .padding(start = 20.dp, top = 20.dp, end = 20.dp)
-                    .background(
-                        color = Color(120, 16, 46), shape =
-                        RoundedCornerShape(
-                            topEnd = 20.dp,
-                            bottomEnd = 20.dp,
-                            bottomStart = 20.dp,
-                            topStart = 20.dp
-                        )
-                    )
+            Row(
+                horizontalArrangement = Arrangement.Center,
+                modifier = Modifier.fillMaxWidth().background(color = Color(120,16,46))
             ) {
+                Image(painter = painterResource(id = R.drawable.whitelogo), contentDescription = "logo",
+                    modifier=Modifier.padding(start=20.dp, top=0.dp, bottom = 10.dp).size(100.dp)
+                )
                 Text(
-                    "Welcome to Calgary Connect!",
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(start = 10.dp, top = 10.dp, bottom = 10.dp, end = 10.dp),
-                    textAlign = TextAlign.Center,
-                    fontSize = 25.sp,
-                    color = Color.White
+                        "Welcome to Calgary Connect!",
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(start = 10.dp, top = 20.dp, bottom = 10.dp, end = 10.dp),
+                textAlign = TextAlign.Center,
+                fontSize = 25.sp,
+                color = Color.White
                 )
             }
+
+
 
             Text("Get informed on downtown community attractions, businesses, restaurants, and" +
                     " events near you!",
