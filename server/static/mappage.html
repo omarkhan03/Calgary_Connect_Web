@@ -1,95 +1,3 @@
-<!-- <!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Connect Calgary</title>
-  <link href="./css/mappage.css" rel="stylesheet" type="text/css" />
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> wasout 
-  <script src="https://kit.fontawesome.com/d28e486df3.js" crossorigin="anonymous"></script>
- <script src="./js/mappage.js"></script>
-  
-
-
-
-</head>
-
-<body>
-
-  
-<header>
-  <img src="./img/logo.png" alt="CalgaryConnects" id="logo" width="100" height="50"/>
-
-    <nav>
-      <div class="navbar">
-  <a href="#" class="icons"><i class="fa-regular fa-square-plus fa-xl"></i>
-    <i class="fa-solid fa-square-plus fa-xl"></i>
-  </a>      
-  <a href="#" class="icons"><i class="fa-regular fa-heart fa-xl"></i>
-    <i class="fa-solid fa-heart fa-xl"></i>
-  </a>
-  <a href="#" class="icons"><i class="fa-regular fa-envelope fa-xl"></i>
-    <i class="fa-solid fa-envelope fa-xl"></i>
-  </a>
-        </nav>
-      <a class="login" href="login.html"><button id="loginbtn"> Login</button></a>
-  </header>
-</div>
-  
-  <div class="wrap">
-    <button class="searchbox" style="font-family: Arial; width:80px; height: 30px;"><i class="fa-solid fa-magnifying-glass" style="color:blue;"></i> Search</button>
-  </div>
-  
- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d321202.81343553495!2d-114.36801025476727!3d51.027288338901094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537170039f843fd5%3A0x266d3bb1b652b63a!2sCalgary%2C%20AB!5e0!3m2!1sen!2sca!4v1658603378251!5m2!1sen!2sca" width="70%" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
- <div id="map"></div>
-  
-
-
- 
- </body>
-  </html>   -->
-
-  <!-- <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.15.1/css/ol.css" type="text/css">
-    <style>
-      .map {
-        height: 400px;
-        width: 100%;
-      }
-    </style>
-    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.15.1/build/ol.js"></script>
-    <title>OpenLayers example</title>
-    <script src="https://requirejs.org/docs/release/2.3.5/minified/require.js"></script>
-  </head>
-  <body>
-    <h2>My Map</h2>
-    <div id="map" class="map"></div>
-    <script type="text/javascript">
-      var map = new ol.Map({
-        target: 'map',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          })
-        ],
-        view: new ol.View({
-          center: ol.proj.fromLonLat([51.128986, -114.14366]),
-          zoom: 4
-        })
-      });
-    </script>
-     <script src="./js/mappage.js"></script>
-
-
-  </body>
-</html> -->
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,12 +8,41 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
    integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
    crossorigin=""/>
+   <link rel="stylesheet" href="./css/mappage.css">
+
+  <script src="https://kit.fontawesome.com/d28e486df3.js" crossorigin="anonymous"></script>
    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
    integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
    crossorigin=""></script>
 </head>
 <body>
-  <div id="map" style="height: 50rem"></div> 
+  <header>
+  <img src="./img/logo.png" alt="CalgaryConnects" id="logo" width="100" height="50"/>
+
+    <nav class="navbar">
+      <div class="navbar">
+        <a href="#" class="icons"><i class="fa-regular fa-square-plus fa-xl"></i>
+          <i class="fa-solid fa-square-plus fa-xl"></i>
+        </a>      
+        <a href="#" class="icons"><i class="fa-regular fa-heart fa-xl"></i>
+          <i class="fa-solid fa-heart fa-xl"></i>
+        </a>
+        <a href="#" class="icons"><i class="fa-regular fa-envelope fa-xl"></i>
+          <i class="fa-solid fa-envelope fa-xl"></i>
+        </a>
+    </nav>
+      <a class="login" href="login.html"><button id="loginbtn"> Login</button></a>
+  </header>
+
+  <div class="container">
+  <main>
+    <div id="map" style="height: 1000px"></div> 
+  </main>
+
+  <aside class="event-cards">
+  </aside>
+  </div>
+
    <script src="./js/mappage.js"></script>
 </body>
 </html>

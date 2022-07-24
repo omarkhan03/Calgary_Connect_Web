@@ -20,13 +20,7 @@ a {
   text-decoration: none;
   color: black;
 }
-.container {
-  min-height: 100vh;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 header {
   display: flex;
   justify-content: flex-end;
@@ -79,7 +73,6 @@ header {
   width: 200px;
   height: 20px;
 }
-}
 
 #btn2:hover{
   background-color: rgb(200,16,46);
@@ -122,3 +115,44 @@ header {
   cursor: pointer;
   outline: none; 
 }
+
+.container {
+  display: flex;
+  gap: 24px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container main {
+  flex: 1;
+}
+
+.event-cards {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+  gap: 12px;
+  flex: 600px 0;
+  height: 1000px;
+  padding: 8px;
+  line-height: 1.5;
+  overflow: scroll;
+}
+
+.event-cards span {
+  font-weight: normal;
+  color: #343a40;
+}
+
+
+.event-card {
+  flex-shrink: 0;
+  border: 1px solid #fa5252 ;
+  border-radius: 6px;
+  padding: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
