@@ -1,7 +1,12 @@
 body {
+  background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.5)), url("../img/calgary.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
   margin: 0;
   padding: 0;
-  font-family:;
+  font-family:Arial;
   height: 100vh;
   overflow: hidden;
 }
@@ -42,6 +47,7 @@ form .txt_field{
   padding: 0 5px;
   height: 40px;
   font-size: 16px;
+  font-family: Arial;
   border: none;
   outline: none;
 }
@@ -53,6 +59,7 @@ form .txt_field{
   color: black;
   transform: translateY(-50%);
   font-size: 16px;
+  font-family: Arial;
   pointer-events: none;
   transition: .5s;
 }
@@ -89,7 +96,7 @@ form .txt_field{
   text-decoration: underline;
   color: gray;
 }
-input[type="submit"] {
+.logbtn {
   width: 100%;
   height: 50%;
   border: 1px solid;
@@ -101,7 +108,7 @@ input[type="submit"] {
   outline: none;
 }
 
-input[type="submit"]:hover{
+.logbtn:hover{
   border-color: gray;
   transition: .5s;
 }

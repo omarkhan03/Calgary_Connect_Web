@@ -63,7 +63,6 @@ then(data =>  data.formatedData.forEach((event) => {
     const event_type = document.createElement("h4")
     event_type.innerText = "Type: "
     const event_type_text = document.createElement("span")
-    console.log(event.Events.Event_type.Event_type)
     if (event.Events.Event_type.Event_type)
         event_type_text.innerText = `${event.Events.Event_type.Event_type}`
     else
@@ -72,11 +71,17 @@ then(data =>  data.formatedData.forEach((event) => {
     eventcard.appendChild(event_type)
 
     const event_date = document.createElement("h4")
-    event_date.innerText = `Date: ${event.Events.Dates.Dates}`
+    event_date.innerText = "Date: "
+    const event_date_text = document.createElement("span")
+    event_date_text.innerText = event.Events.Dates.Dates
+    event_date.appendChild(event_date_text)
     eventcard.appendChild(event_date)
 
     const event_address = document.createElement("h4")
-    event_address.innerText = `Address: ${event.Events.Adress.Adress}`
+    const event_address_text = document.createElement("span")
+    event_address.innerText = "Address: "
+    event_address_text.innerText = event.Events.Adress.Adress
+    event_address.appendChild(event_address_text)
     eventcard.appendChild(event_address)
 
     // const event_detail = document.createElement("a")
