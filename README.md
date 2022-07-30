@@ -20,6 +20,8 @@ This will install all the dependencies we need for this project. You only need t
 4. Now, you should be able to run the project with
 ``` npm run dev ```
 
+Type "localhost:5000" in your browser to view the website.
+
 The server is basically just serving all the static files (.html) located inside our static folder.
 
 The meat of the project is inside the mappage.js where we get all the data from an open API and create a list of events and map.
